@@ -1,7 +1,5 @@
-# WHEN WORKING ON HTML/VIEWS!
+# Important to know!
 
-keep the current form as it is. It can be moved around or broken apart but don't change the attributes inside the form, labels and inputs. Displayed text can be changed.
+The code is pretty messy, some functions exist in their basic form but still need some rework/additional methods.
 
-# WHEN LAUNCHING GAME!
 
-Use "npm install prompts"
